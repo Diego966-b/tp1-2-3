@@ -1,0 +1,17 @@
+.espacioForm
+{
+    border-color:lightgray;
+    border-width: 1.5px;
+    display:inline-block;
+    padding: 0px;
+    margin: 0px;
+}
+input[type=submit]
+{
+    margin-left: 2px;
+    padding: 2px;
+}
+input[type=text], select
+{
+    width:150px;
+}
